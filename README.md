@@ -24,17 +24,22 @@ Programa desenvolvido em Python com banco de dados SQLite que permite gerenciar 
 ### Passos
 
 1. Clone o repositório
-\```
+
+```bash
 git clone git@github.com:babaleca/CLI-de-filmes.git
-\```
+```
+
 2. Entre na pasta
-\```
+
+```bash
 cd CLI-de-filmes
-\```
+```
+
 3. Rode o programa
-\```
+
+```bash
 python filmes.py [comando]
-\```
+```
 
 ## Comandos
 
